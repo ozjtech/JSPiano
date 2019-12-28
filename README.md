@@ -1,2 +1,2 @@
 # JSPiano
-A piano animated with CSS and Javascript
+A simple animated piano made with CSS and JavaScript.
